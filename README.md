@@ -15,6 +15,18 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
+<h1 align="center">Hi, I am Jagdish Gupta </h1>
+<h3 align="center">Java Full Stack Developer | Android App Developer </h3>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">👋 Hey there! I'm Jagdish Gupta, a Java developer, passionate about building reliable and efficient applications. I enjoy working with Java, Spring Boot, and REST APIs to build scalable Systems and Android apps. I'm always exploring new tools and techniques to grow as a developer and make my work even better.
+  <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guptajagdish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshneyjack@gmail.com) 
