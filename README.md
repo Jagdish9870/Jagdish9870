@@ -12,8 +12,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagdish9870&style=flat-square&color=blue" alt="Profile views" />
+</p>
 </div>
 <h1 align="center">Hi, I am Jagdish Gupta </h1>
 <h3 align="center">Java Full Stack Developer | Android App Developer </h3>
@@ -55,4 +56,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jagdish9870&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
