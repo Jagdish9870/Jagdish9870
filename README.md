@@ -53,11 +53,12 @@
 </div>
 
 #  <h1 align="center">⚡ Stats ⚡</h1>
-![](https://github-readme-stats.vercel.app/api?username=Jagdish9870&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Jagdish9870&theme=dark&hide_border=false)<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish9870&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagdish9870&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jagdish9870&theme=dark&hide_border=false" />
 </p>
 
 
